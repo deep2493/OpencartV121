@@ -1,0 +1,1 @@
+cd /d D:\eclipse-workspace\OpencartV121>mvn test
